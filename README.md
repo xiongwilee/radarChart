@@ -24,7 +24,6 @@
     
     // 数据格式
     const DATA = {
-      radius: 420,
       list: [{
         name: '学生学习',
         ringColor: '#28b447',
