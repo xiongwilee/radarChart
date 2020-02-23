@@ -2,7 +2,9 @@
 
 ### 示例
 
-![]()
+[http://wilee.me/radarChart/](http://wilee.me/radarChart/)
+
+![](https://github.com/xiongwilee/radarChart/blob/master/demo.png?raw=true)
 
 ### 使用方法
 
